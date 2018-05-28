@@ -11,6 +11,9 @@ from .elevation import *
 from .core import *
 from .plot import *
 from .pois import *
+from .leisures import *
+from .tourism import *
+from .public_transport import *
 from .projection import *
 from .save_load import *
 from .simplify import *
